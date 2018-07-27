@@ -1,0 +1,11 @@
+CACHE MANIFEST
+
+# If you use more files you need to manually list them here.
+# Don't remove next line
+# Updated on: 2012-11-09 10:00:31
+
+lotto.js
+lotto_set.js
+
+NETWORK:
+*
